@@ -10,6 +10,7 @@
 <body>
 
 	<h1>Hello There!</h1>
+    <h3><i>From IntelliJ</i></h3>
 	<b>The time is: <i> <u> <%=Calendar.getInstance().getTime()%>
 	</u>
 	</i>
